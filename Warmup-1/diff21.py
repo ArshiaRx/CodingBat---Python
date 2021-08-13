@@ -16,6 +16,10 @@ def diff21(n):
     return diff * 2
   else:
     return diff
+
+  print(diff21(19))
+  print(diff21(10))
+  print(diff21(0))
 # =============================================================================
   
 #def diff21(n):
