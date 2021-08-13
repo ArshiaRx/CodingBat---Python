@@ -20,4 +20,25 @@ def sleep_in(weekday, vacation):
 #sleep_in(True, False)  --> False
 #sleep_in(False, True)  --> True
 #sleep_in(True, True)   --> True
+#===========================================================================
+  
+#def sleep_in(weekday, vacation):
+  #return not weekday or vacation
+
+  
+#def sleep_in(weekday, vacation):
+  #if vacation:
+    #return True
+  #else:
+    #return not weekday
+
+    
+#def sleep_in(weekday, vacation): 
+  #if not weekday:
+    #return True
+  #else:
+    #return vacation
+    
+    
+
   
