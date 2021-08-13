@@ -1,4 +1,4 @@
-##CodingBat - Python
+#CodingBat - Python
 
 #diff21
 #Given an int n, return the absolute difference between n and 21, except
@@ -21,4 +21,3 @@ def diff21(n):
 #def diff21(n):
   #diif = abs(n-21)
   #return  2 * diff if n > 21 else diff
-
