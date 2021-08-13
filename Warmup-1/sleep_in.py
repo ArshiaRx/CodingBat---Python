@@ -1,4 +1,4 @@
-#CodingBat - Python By Arshia Rahim
+#CodingBat - Python
 
 #Sleep_in
 #The parameter weekday is True if it is a weekday, and the parameter vacation 
@@ -15,11 +15,6 @@ def sleep_in(weekday, vacation):
   else:
     return False
 
-#Expected
-#sleep_in(False, False) --> True
-#sleep_in(True, False)  --> False
-#sleep_in(False, True)  --> True
-#sleep_in(True, True)   --> True
 # ===========================================================================
   
 #def sleep_in(weekday, vacation):
