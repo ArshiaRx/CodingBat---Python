@@ -14,7 +14,6 @@ def sleep_in(weekday, vacation):
     return True
   else:
     return False
-
 # ===========================================================================
   
 #def sleep_in(weekday, vacation):
