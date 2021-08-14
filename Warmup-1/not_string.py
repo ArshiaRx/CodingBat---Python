@@ -15,7 +15,7 @@ def not_string(str):
         return str
     else:
         new_str = "not "
-        return new_str + str
+        return new_str + str   #or   return "not " + str
 
 print(not_string('candy'))
 print(not_string('x'))
