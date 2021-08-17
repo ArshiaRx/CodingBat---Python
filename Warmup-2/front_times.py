@@ -25,3 +25,4 @@ print(front_times('Abc', 3))
 #     result = ''
 #     for i in range(n):
 #         result += str[:3]
+#     return result
