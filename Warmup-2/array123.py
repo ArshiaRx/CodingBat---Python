@@ -14,7 +14,7 @@ def array123(nums):
     
     for e in range(len(nums) - len(array_list) + 1):
         
-        if nums[e:e+len(array_list)] == array_list:
+        if nums[e : e + len(array_list)] == array_list:
             return True
     
     return False
