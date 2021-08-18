@@ -15,8 +15,8 @@ def string_match(a, b):
     count = 0
     
     a_length, b_length = len(a), len(b)
-    shorter_length = min(a_length, b_length)
-    
+    shorter_length = min(a_length, b_length)  #shorter_length = min(len(a), len(b)) 
+                                              #returns the shorter length value
     for e in range(shorter_length-1):   #from shorter length count until 2nd 
                                         #last index
         sub_a = a[e:e+2]
