@@ -25,6 +25,7 @@ def string_match(a, b):
             count += 1
     return count
 
-print(string_match('xxcaazz','xxbaaz'))
-print(string_match('abc', 'abc'))
-print(string_match('abc', 'axc'))
+#To check:
+#print(string_match('xxcaazz','xxbaaz'))
+#print(string_match('abc', 'abc'))
+#print(string_match('abc', 'axc'))
