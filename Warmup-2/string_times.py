@@ -12,10 +12,11 @@ def string_times(str, n):
         return False
     elif n >= 0:
         return str * n
-    
-print(string_times('Hi', 2))
-print(string_times('Hi', 3))
-print(string_times('Hi', 1))    
+ 
+#To Check
+#print(string_times('Hi', 2))
+#print(string_times('Hi', 3))
+#print(string_times('Hi', 1))    
 # =============================================================================
 
 # def string_times(str, n):
