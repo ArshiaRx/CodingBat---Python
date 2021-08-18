@@ -11,6 +11,7 @@
 def hello_name(name):
     return "Hello " + str(name) + "!"
 
-print(hello_name('Bob'))
-print(hello_name('Alice'))
-print(hello_name('X'))
+#To check
+#print(hello_name('Bob'))
+#print(hello_name('Alice'))
+#print(hello_name('X'))
