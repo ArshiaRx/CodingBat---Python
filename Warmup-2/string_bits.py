@@ -19,6 +19,7 @@ def string_bits(str):
       result = result + str[i]
   return result
 
-print(string_bits('Hello'))
-print(string_bits('Hi'))
-print(string_bits('Heeololeo'))
+#To check
+#print(string_bits('Hello'))
+#print(string_bits('Hi'))
+#print(string_bits('Heeololeo'))
