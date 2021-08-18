@@ -15,6 +15,6 @@ def string_splosion(str):
    
   return result
 
-print(string_splosion('Code'))
-print(string_splosion('abc'))
-print(string_splosion('ab'))
+#print(string_splosion('Code'))
+#print(string_splosion('abc'))
+#print(string_splosion('ab'))
