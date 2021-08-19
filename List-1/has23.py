@@ -14,7 +14,7 @@ def has23(nums):
     else:
         return False
     
-    
-print(has23([2, 5]))
-print(has23([4, 3]))
-print(has23([4, 5]))
+#To check
+#print(has23([2, 5]))
+#print(has23([4, 3]))
+#print(has23([4, 5]))
