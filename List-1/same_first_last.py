@@ -12,6 +12,7 @@
 def same_first_last(nums):
     return True if len(nums) >= 1 and nums[0] == nums[-1] else False
 
-print(same_first_last([1, 2, 3]))
-print(same_first_last([1, 2, 3, 1]))
-print(same_first_last([1, 2, 1]))
+#To check:
+#print(same_first_last([1, 2, 3]))
+#print(same_first_last([1, 2, 3, 1]))
+#print(same_first_last([1, 2, 1]))
