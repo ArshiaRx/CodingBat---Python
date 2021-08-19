@@ -16,7 +16,7 @@ def max_end3(nums):
     else:
         return [nums[-1], nums[-1], nums[-1]]
     
-    
-print(max_end3([1, 2, 3]))
-print(max_end3([11, 5, 9]))
-print(max_end3([2, 11, 3]))
+#To check:
+#print(max_end3([1, 2, 3]))
+#print(max_end3([11, 5, 9]))
+#print(max_end3([2, 11, 3]))
