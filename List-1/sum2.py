@@ -25,7 +25,7 @@ def sum2(nums):
     
     return result
 
-
-print(sum2([1, 2, 3]))
-print(sum2([1, 1]))
-print(sum2([1, 1, 1, 1]))   
+#To check:
+#print(sum2([1, 2, 3]))
+#print(sum2([1, 1]))
+#print(sum2([1, 1, 1, 1]))   
