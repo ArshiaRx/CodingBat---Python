@@ -15,6 +15,7 @@ def left2(str):
     else:
         return str[2:] + str[:2]
     
-print(left2('Hello'))
-print(left2('java'))
-print(left2('Hi'))
+#To check:    
+#print(left2('Hello'))
+#print(left2('java'))
+#print(left2('Hi'))
