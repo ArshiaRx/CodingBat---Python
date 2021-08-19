@@ -16,6 +16,7 @@ def combo_string(a, b):
   elif len(a) < len(b):      #or use else:
     return a + b + a
 
-print(combo_string('Hello', 'hi'))
-print(combo_string('hi', 'Hello'))
-print(combo_string('aaa', 'b'))
+#To check
+#print(combo_string('Hello', 'hi'))
+#print(combo_string('hi', 'Hello'))
+#print(combo_string('aaa', 'b'))
