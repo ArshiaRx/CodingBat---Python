@@ -16,6 +16,7 @@ def make_tags(tag, word):
   last_html = "</" + tag + ">"
   return  first_html + word + last_html
 
-print(make_tags('i', 'Yay'))
-print(make_tags('i', 'Hello'))
-print(make_tags('cite', 'Yay'))  
+#To check
+#print(make_tags('i', 'Yay'))
+#print(make_tags('i', 'Hello'))
+#print(make_tags('cite', 'Yay'))  
