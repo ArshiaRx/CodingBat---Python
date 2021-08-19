@@ -12,7 +12,7 @@
 def first_last6(nums):
     return True if nums[0] == 6 or nums[-1] == 6 else False
 
-
-print(first_last6([1, 2, 6]))
-print(first_last6([6, 1, 2, 3]))
-print(first_last6([13, 6, 1, 2, 3]))
+#To check:
+#print(first_last6([1, 2, 6]))
+#print(first_last6([6, 1, 2, 3]))
+#print(first_last6([13, 6, 1, 2, 3]))
