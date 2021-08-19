@@ -15,6 +15,7 @@ def make_out_word(out, word):
   
   return out[:half_length] + word + out[half_length:]
 
-print(make_out_word('<<>>', 'Yay'))
-print(make_out_word('<<>>', 'WooHoo'))
-print(make_out_word('[[]]', 'word'))
+#To check:
+#print(make_out_word('<<>>', 'Yay'))
+#print(make_out_word('<<>>', 'WooHoo'))
+#print(make_out_word('[[]]', 'word'))
