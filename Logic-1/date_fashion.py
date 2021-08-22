@@ -21,6 +21,7 @@ def date_fashion(you, date):
   else:
     return 1
 
-print(date_fashion(5, 10))
-print(date_fashion(5, 2))
-print(date_fashion(5, 5))
+#To check:
+#print(date_fashion(5, 10))
+#print(date_fashion(5, 2))
+#print(date_fashion(5, 5))
