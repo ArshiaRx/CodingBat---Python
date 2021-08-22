@@ -28,6 +28,7 @@ def caught_speeding(speed, is_birthday):
     else:
       return 2
   
-print(caught_speeding(60, False))
-print(caught_speeding(65, False))
-print(caught_speeding(65, True))
+#To check:
+#print(caught_speeding(60, False))
+#print(caught_speeding(65, False))
+#print(caught_speeding(65, True))
