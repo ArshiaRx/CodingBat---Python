@@ -21,7 +21,7 @@ def squirrel_play(temp, is_summer):
   else:
     return False
 
-
-print(squirrel_play(70, False))
-print(squirrel_play(95, False))
-print(squirrel_play(95, True))
+#To Check
+#print(squirrel_play(70, False))
+#print(squirrel_play(95, False))
+#print(squirrel_play(95, True))
