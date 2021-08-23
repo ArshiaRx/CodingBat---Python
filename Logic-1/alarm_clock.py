@@ -26,7 +26,7 @@ def alarm_clock(day, vacation):
     else:
       return "10:00"
   
-
-print(alarm_clock(1, False))
-print(alarm_clock(5, False))
-print(alarm_clock(0, False))
+#To check
+#print(alarm_clock(1, False))
+#print(alarm_clock(5, False))
+#print(alarm_clock(0, False))
