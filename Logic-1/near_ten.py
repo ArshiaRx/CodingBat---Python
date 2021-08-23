@@ -13,7 +13,7 @@ def near_ten(num):
   last =  num % 10
   return last in (0, 1, 2, 8, 9)
 
-
-print(near_ten(12))
-print(near_ten(17))
-print(near_ten(19))
+#To Check:
+#print(near_ten(12))
+#print(near_ten(17))
+#print(near_ten(19))
