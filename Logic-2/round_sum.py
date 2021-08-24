@@ -10,7 +10,6 @@
 #and call it 3 times. Write the helper entirely below and at the same indent 
 #level as round_sum().
 
-
 # round_sum(16, 17, 18) → 60
 # round_sum(12, 13, 14) → 30
 # round_sum(6, 4, 4) → 10
