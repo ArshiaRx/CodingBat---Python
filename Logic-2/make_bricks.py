@@ -17,11 +17,12 @@
 def make_bricks(small, big, goal):
     return False if goal > (big * 5) + (small * 1) or (goal % 5) > small else True
 
-
+#To check:
 print(make_bricks(3, 1, 8))
 print(make_bricks(3, 1, 9))
 print(make_bricks(3, 2, 10))
 # =============================================================================
+#Below are other ways to run the program:
 
 # def make_bricks(small, big, goal):
 #     if small < (goal % 5) or (small + big * 5) < goal:
@@ -37,7 +38,3 @@ print(make_bricks(3, 2, 10))
 #         return False
 #     else:
 #         return True
-
-
-    
-  
