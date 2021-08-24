@@ -10,17 +10,17 @@
 # double_char('Hi-There') → 'HHii--TThheerree'
 
 def double_char(str):
-    
   result = ""
+
   for i in range(len(str)):
     result += str[i] + str[i]
     
   return result
 
-
-print(double_char('The'))
-print(double_char('AAbb'))
-print(double_char('Hi-There'))
+#To check:
+#print(double_char('The'))
+#print(double_char('AAbb'))
+#print(double_char('Hi-There'))
 # =============================================================================
 
 # def double_char(str):
