@@ -17,7 +17,7 @@ def count_hi(str):
       count += 1
   return count
 
-
-print(count_hi('abc hi ho'))
-print(count_hi('ABChi hi'))
-print(count_hi('hihi'))
+#To check
+#print(count_hi('abc hi ho'))
+#print(count_hi('ABChi hi'))
+#print(count_hi('hihi'))
