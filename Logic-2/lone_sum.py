@@ -25,7 +25,7 @@ def lone_sum(a, b, c):
     sum = a + b + c
     return sum
 
-
-print(lone_sum(1, 2, 3))
-print(lone_sum(3, 2, 3))
-print(lone_sum(3, 3, 3))
+#To check:
+#print(lone_sum(1, 2, 3))
+#print(lone_sum(3, 2, 3))
+#print(lone_sum(3, 3, 3))
