@@ -24,7 +24,7 @@ def lucky_sum(a, b, c):
   elif c == 13:
     return a + b
 
-
-print(lucky_sum(1, 2, 3))
-print(lucky_sum(1, 2, 13))
-print(lucky_sum(1, 13, 13))
+#To check:
+#print(lucky_sum(1, 2, 3))
+#print(lucky_sum(1, 2, 13))
+#print(lucky_sum(1, 13, 13))
