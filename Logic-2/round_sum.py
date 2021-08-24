@@ -24,7 +24,7 @@ def round10(num):
     elif num % 10 < 5:
         return num - (num % 10)
     
-
-print(round_sum(16, 17, 18))
-print(round_sum(12, 13, 14))
-print(round_sum(6, 4, 4))
+#To Check:
+#print(round_sum(16, 17, 18))
+#print(round_sum(12, 13, 14))
+#print(round_sum(6, 4, 4))
