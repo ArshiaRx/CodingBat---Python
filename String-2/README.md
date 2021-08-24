@@ -1,1 +1,0 @@
-man khoobam to khobi
