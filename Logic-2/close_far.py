@@ -21,7 +21,7 @@ def close_far(a, b, c):
   
   return b_close and c_far or b_far and c_close
 
-
-print(close_far(1, 2, 10))
-print(close_far(1, 2, 3))
-print(close_far(4, 1, 3))
+#To check:
+#print(close_far(1, 2, 10))
+#print(close_far(1, 2, 3))
+#print(close_far(4, 1, 3))
