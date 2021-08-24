@@ -22,7 +22,7 @@ def cat_dog(str):
         return True
     return False
 
-
-print(cat_dog('catdog'))
-print(cat_dog('catcat'))
-print(cat_dog('1cat1cadodog'))
+#To check:
+#print(cat_dog('catdog'))
+#print(cat_dog('catcat'))
+#print(cat_dog('1cat1cadodog'))
