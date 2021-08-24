@@ -25,11 +25,13 @@ def fix_teen(n):
   elif n == 15 or n == 16 or n:
     return n
 
-
-print(no_teen_sum(1, 2, 3))
-print(no_teen_sum(2, 13, 1))
-print(no_teen_sum(2, 1, 14)) 
+#To check:
+#print(no_teen_sum(1, 2, 3))
+#print(no_teen_sum(2, 13, 1))
+#print(no_teen_sum(2, 1, 14)) 
 # =============================================================================
+#Below are other ways to run the program:
+
 #def no_teen_sum(a, b, c):
 #  return fix_teen(a) + fix_teen(b) + fix_teen(c)
 
