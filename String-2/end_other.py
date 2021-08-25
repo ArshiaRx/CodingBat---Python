@@ -13,10 +13,8 @@
 
 
 def end_other(a, b):
-    
-#varibale.lower()  --> Turns the string into lowercase
-    
-    a = a.lower()
+
+    a = a.lower()       #varibale.lower()  --> Turns the string into lowercase
     b = b.lower()
     
 # variable.endswith(something)  --> Checks if string variable end with (something) 
