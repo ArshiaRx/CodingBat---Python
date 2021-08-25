@@ -20,7 +20,7 @@ def xyz_there(str):
         dot = str[e] == "." 
     return count > 0
 
-
-print(xyz_there('abcxyz'))
-print(xyz_there('abc.xyz'))
-print(xyz_there('xyz.abc'))
+#To check:
+#print(xyz_there('abcxyz'))
+#print(xyz_there('abc.xyz'))
+#print(xyz_there('xyz.abc'))
