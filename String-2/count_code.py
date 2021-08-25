@@ -16,7 +16,7 @@ def count_code(str):
             count += 1
     return count
 
-
-print(count_code('aaacodebbb'))
-print(count_code('codexxcode'))
-print(count_code('cozexxcope'))
+#To check:
+#print(count_code('aaacodebbb'))
+#print(count_code('codexxcode'))
+#print(count_code('cozexxcope'))
