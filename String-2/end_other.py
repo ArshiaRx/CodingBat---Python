@@ -7,10 +7,10 @@
 #computation should not be "case sensitive"). Note: s.lower() returns the lowercase
 #version of a string.
 
-
 # end_other('Hiabc', 'abc') → True
 # end_other('AbC', 'HiaBc') → True
 # end_other('abc', 'abXabc') → True
+
 
 def end_other(a, b):
     
