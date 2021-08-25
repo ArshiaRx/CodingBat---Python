@@ -13,7 +13,9 @@
 # end_other('abc', 'abXabc') → True
 
 def end_other(a, b):
-    #varibale.lower()  --> Turns the string into lowercase
+    
+#varibale.lower()  --> Turns the string into lowercase
+    
     a = a.lower()
     b = b.lower()
     
@@ -21,7 +23,7 @@ def end_other(a, b):
         
     return a.endswith(b) or b.endswith(a)    
 
-
-print(end_other('Hiabc', 'abc'))
-print(end_other('AbC', 'HiaBc'))
-print(end_other('abc', 'abXabc'))   
+#To check:
+#print(end_other('Hiabc', 'abc'))
+#print(end_other('AbC', 'HiaBc'))
+#print(end_other('abc', 'abXabc'))   
