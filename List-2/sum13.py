@@ -21,6 +21,7 @@ def sum13(nums):
   return total
 
 
-print(sum13([1, 2, 2, 1]))
-print(sum13([1, 1]))
-print(sum13([1, 2, 2, 1, 13]))
+#To check:
+#print(sum13([1, 2, 2, 1]))
+#print(sum13([1, 1]))
+#print(sum13([1, 2, 2, 1, 13]))
