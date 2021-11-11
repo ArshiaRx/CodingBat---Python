@@ -1,5 +1,6 @@
 # CodingBat---Python
 Solution to https://codingbat.com/python exercises
+*COMPLETED*
 
 Full python codingBat exercise challenge.
 - Subscribe for more exercise challenges ...
