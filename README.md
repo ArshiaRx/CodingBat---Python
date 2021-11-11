@@ -1,7 +1,7 @@
 # CodingBat---Python
-Solution to https://codingbat.com/python exercises
-
 *COMPLETED*
+
+Solution to https://codingbat.com/python exercises
 
 Full python codingBat exercise challenge.
 - Subscribe for more exercise challenges ...
