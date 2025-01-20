@@ -2,6 +2,7 @@
 *COMPLETED*
 
 As per practice I have solved all the Python Exercises and here is all solution to it.
+
 Solution to https://codingbat.com/python exercises
 
 Full python codingBat exercise challenge.
